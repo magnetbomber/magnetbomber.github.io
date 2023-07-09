@@ -47,6 +47,7 @@ body {
 }
 .msg h2{
 	color: #d9c2a3;
+	font-family: Georgia;
 }
 .msg p{
 	color: #d9c2a3;
@@ -70,6 +71,7 @@ footer a:hover{
 }
 .home-title{
 	color: #d9c2a3;
+	font-family: Georgia;
 }
 h4{
 	color: #d9c2a3;
