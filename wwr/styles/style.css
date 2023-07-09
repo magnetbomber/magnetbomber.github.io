@@ -35,7 +35,7 @@ body {
 }
 .book, .join{
 	background-color: blue;
-	color: #d9c2a3;
+	color: black;
 	text-decoration: none;
 }
 .book:hover, .join:hover{
